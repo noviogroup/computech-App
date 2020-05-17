@@ -1,1 +1,1 @@
-export const ENABLE_WEBVIEW = false;
+export const ENABLE_WEBVIEW = true;
