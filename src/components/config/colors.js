@@ -11,7 +11,7 @@ export const grey6 = '#777777';
 export const grey7 = '#383838';
 export const grey8 = '#1e1e1e';
 export const grey9 = '#2C2C2C';
-export const black = '#121212';
+export const black = '#202360';
 
 export const red = '#e60023';
 export const orange = '#F2711C';

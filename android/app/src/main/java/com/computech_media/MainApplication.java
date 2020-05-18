@@ -1,4 +1,4 @@
-package com.rn_oreo;
+package com.computech_media;
 
 import android.app.Application;
 import android.content.Context;

@@ -8,7 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* rn_oreoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* rn_oreoTests.m */; };
+		02BA0C4271A8992F11C8C27A /* libPods-rn_oreo-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CC37174A488C6BE6504FB353 /* libPods-rn_oreo-tvOSTests.a */; };
 		02D83825F2D94B05AF750096 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EE178823EB3C4AA9B1864993 /* Poppins-Light.ttf */; };
+		084F5F546F214A78ABB701EC /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F42695C5644F4175BDAC181E /* EvilIcons.ttf */; };
+		0DBF0C5B5C4A47A3A1C1203F /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DFA99C26684540B3974F921E /* Fontisto.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
@@ -18,18 +21,30 @@
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* rn_oreoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* rn_oreoTests.m */; };
-		35E413B6985BC997E4259476 /* libPods-rn.oreo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E795CBB46B7B4BA3A835DF97 /* libPods-rn.oreo.a */; };
+		3538E11F4B7E4B729CFD85DF /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 61783F85EB1E416D8286B893 /* FontAwesome.ttf */; };
+		3E5096B9AE524C20B1013917 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E08A39909E384CB483152435 /* Foundation.ttf */; };
 		52AAF018445D4363A88FBA81 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FD9B75CA8E2F499389689EE3 /* Poppins-Regular.ttf */; };
-		70A3C561486A13A00742AE71 /* libPods-rn.oreoTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A1C5C73797D7F88B11CA064D /* libPods-rn.oreoTests.a */; };
-		77FED5FB2469D3EF007615B3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 77FED5FA2469D3EF007615B3 /* GoogleService-Info.plist */; };
+		59C1CF2D3BE04B758AD4CCC8 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BB13BAFFA786488DA3F919C3 /* Zocial.ttf */; };
+		62ACAA24FCDC4BA2BBA6C895 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7952D24E94254B94A10DCA10 /* MaterialCommunityIcons.ttf */; };
+		6B4C2E05281FEE69BC51757F /* libPods-rn_oreo-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3041920998B9399033C6A89D /* libPods-rn_oreo-tvOS.a */; };
+		6F8F7356107F4F5DADFE8F2A /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4D22A6A8AF36442FBBC71048 /* FontAwesome5_Brands.ttf */; };
+		82056BD1CA8A45309B567DEF /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BB31F4D191724847A8D65B9A /* SimpleLineIcons.ttf */; };
+		846DB60DCECC433E876C1EEB /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1FCCECA017EE48D39AE053EA /* Octicons.ttf */; };
 		882243A4238689C100CFE8BB /* NotificationService.m in Sources */ = {isa = PBXBuildFile; fileRef = 882243A3238689C100CFE8BB /* NotificationService.m */; };
 		882243A8238689C100CFE8BB /* OneSignalNotificationServiceExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 882243A0238689C100CFE8BB /* OneSignalNotificationServiceExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		9019D946CEDC4A86B83111B4 /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 12C44B73B82745BEB7B9E6E3 /* FontAwesome5_Regular.ttf */; };
+		9C1532084662F11250C22123 /* libPods-rn_oreoTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9A207025C5F0061F6CA6E8B9 /* libPods-rn_oreoTests.a */; };
 		B1868E55246914CF006415E6 /* Property List.plist in Resources */ = {isa = PBXBuildFile; fileRef = B1868E54246914CF006415E6 /* Property List.plist */; };
 		B1868E57246917BC006415E6 /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED297162215061F000B7C4FE /* JavaScriptCore.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
-		CBB7CC7A4AABA25A99EC6503 /* libPods-rn.oreo-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 30A77E9BED283AD1A2489174 /* libPods-rn.oreo-tvOSTests.a */; };
+		C6E1AD6B1A2A445295446215 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E7689B0F927A42CCAE668B58 /* MaterialIcons.ttf */; };
+		CA54BD2B9AEF4E52A576F9C2 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 39520C08D4554D71A9BC8D53 /* FontAwesome5_Solid.ttf */; };
+		CBFCAD806B1E4692B974275F /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 01315FE4DFD446AAB95EC4B7 /* Ionicons.ttf */; };
+		D49FB677ACA74F65B961DB86 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 716B1E682D6844169C796D89 /* Entypo.ttf */; };
+		D5814F52EBAD47F6B4E583A8 /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1221C78AD888485B83C19A72 /* Feather.ttf */; };
 		E2B2538D23FA3A01009FA9EE /* splash.png in Resources */ = {isa = PBXBuildFile; fileRef = E2B2538C23FA3A01009FA9EE /* splash.png */; };
-		EEA165B7947930F6D1ECD6F0 /* libPods-rn.oreo-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D276C9EB7930737A794DE7B /* libPods-rn.oreo-tvOS.a */; };
+		E9539EA487C045CA94407667 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 765DEA62462449D8ADC4B6A4 /* AntDesign.ttf */; };
 		FB5F838CB6F64DF1BD59103C /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1FB38C6E99E643D788A715D8 /* Poppins-Medium.ttf */; };
+		FBF6D5844A81D87641E62FF3 /* libPods-rn_oreo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 108A5ADFCD53C1E8A2129C5B /* libPods-rn_oreo.a */; settings = {ATTRIBUTES = (Weak, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,9 +90,12 @@
 		00E356EE1AD99517003FC87E /* rn.oreoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = rn.oreoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* rn_oreoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = rn_oreoTests.m; sourceTree = "<group>"; };
+		01315FE4DFD446AAB95EC4B7 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
 		05AA5CA661DF48CF53F10A69 /* Pods-rn_oreoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn_oreoTests.debug.xcconfig"; path = "Target Support Files/Pods-rn_oreoTests/Pods-rn_oreoTests.debug.xcconfig"; sourceTree = "<group>"; };
-		0D276C9EB7930737A794DE7B /* libPods-rn.oreo-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rn.oreo-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07F961A680F5B00A75B9A /* Computech.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Computech.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		108A5ADFCD53C1E8A2129C5B /* libPods-rn_oreo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rn_oreo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1221C78AD888485B83C19A72 /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
+		12C44B73B82745BEB7B9E6E3 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* Computech Media.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Computech Media.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = rn_oreo/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = rn_oreo/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
@@ -85,41 +103,46 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = rn_oreo/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = rn_oreo/main.m; sourceTree = "<group>"; };
 		1FB38C6E99E643D788A715D8 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Medium.ttf"; path = "../assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; };
+		1FCCECA017EE48D39AE053EA /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* rn.oreo-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "rn.oreo-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* rn.oreo-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "rn.oreo-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		30A77E9BED283AD1A2489174 /* libPods-rn.oreo-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rn.oreo-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3041920998B9399033C6A89D /* libPods-rn_oreo-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rn_oreo-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		366F038D2437494FA99AC27B /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-SemiBold.ttf"; path = "../assets/fonts/Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
-		385EC73F2F687582B2E093FE /* Pods-rn.oreo-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn.oreo-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-rn.oreo-tvOSTests/Pods-rn.oreo-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		39520C08D4554D71A9BC8D53 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
 		41786B42438D41D6F70E4725 /* Pods-rn_oreo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn_oreo.debug.xcconfig"; path = "Target Support Files/Pods-rn_oreo/Pods-rn_oreo.debug.xcconfig"; sourceTree = "<group>"; };
 		4246D3C8E18E82F0E8070DD4 /* Pods-OneSignalNotificationServiceExtension.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OneSignalNotificationServiceExtension.release.xcconfig"; path = "Target Support Files/Pods-OneSignalNotificationServiceExtension/Pods-OneSignalNotificationServiceExtension.release.xcconfig"; sourceTree = "<group>"; };
+		4D22A6A8AF36442FBBC71048 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
 		4D4CA8A7013FFE0C8FA0D0BB /* Pods-rn_oreo-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn_oreo-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-rn_oreo-tvOSTests/Pods-rn_oreo-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		4EE218462045FABC937E4D86 /* Pods-rn_oreo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn_oreo.release.xcconfig"; path = "Target Support Files/Pods-rn_oreo/Pods-rn_oreo.release.xcconfig"; sourceTree = "<group>"; };
 		5305D773EFC8BB966D0FEACD /* Pods-rn_oreoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn_oreoTests.release.xcconfig"; path = "Target Support Files/Pods-rn_oreoTests/Pods-rn_oreoTests.release.xcconfig"; sourceTree = "<group>"; };
+		61783F85EB1E416D8286B893 /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
 		6EAB1169DDD649B88CD9D8FD /* libPods-OneSignalNotificationServiceExtension.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OneSignalNotificationServiceExtension.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		72BC71B97452C4F295B9F3DA /* Pods-rn.oreoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn.oreoTests.debug.xcconfig"; path = "Target Support Files/Pods-rn.oreoTests/Pods-rn.oreoTests.debug.xcconfig"; sourceTree = "<group>"; };
-		77FED5FA2469D3EF007615B3 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
-		7F1020DCB41575095AFEE2FF /* Pods-rn.oreoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn.oreoTests.release.xcconfig"; path = "Target Support Files/Pods-rn.oreoTests/Pods-rn.oreoTests.release.xcconfig"; sourceTree = "<group>"; };
-		83AC33648B657ADDCDF46170 /* Pods-rn.oreo-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn.oreo-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-rn.oreo-tvOSTests/Pods-rn.oreo-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		716B1E682D6844169C796D89 /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
+		765DEA62462449D8ADC4B6A4 /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
+		7952D24E94254B94A10DCA10 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
 		8822438B238638DF00CFE8BB /* oreo fashion.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = "oreo fashion.entitlements"; path = "rn_oreo/oreo fashion.entitlements"; sourceTree = "<group>"; };
 		882243A0238689C100CFE8BB /* OneSignalNotificationServiceExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = OneSignalNotificationServiceExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		882243A2238689C100CFE8BB /* NotificationService.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NotificationService.h; sourceTree = "<group>"; };
 		882243A3238689C100CFE8BB /* NotificationService.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NotificationService.m; sourceTree = "<group>"; };
 		882243A5238689C100CFE8BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		913642D136A44010D7318F64 /* Pods-rn.oreo-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn.oreo-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-rn.oreo-tvOS/Pods-rn.oreo-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		88C97A7F236A422200D339D1 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		9A207025C5F0061F6CA6E8B9 /* libPods-rn_oreoTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rn_oreoTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CAFE9D11A3A31B56D43FF77 /* Pods-rn_oreo-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn_oreo-tvOS.release.xcconfig"; path = "Target Support Files/Pods-rn_oreo-tvOS/Pods-rn_oreo-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		9F26E6B72E0F67E1C9D361A8 /* Pods-rn.oreo-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn.oreo-tvOS.release.xcconfig"; path = "Target Support Files/Pods-rn.oreo-tvOS/Pods-rn.oreo-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		A1C5C73797D7F88B11CA064D /* libPods-rn.oreoTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rn.oreoTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABAE0FC2A2ED0040FED11027 /* Pods-rn_oreo-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn_oreo-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-rn_oreo-tvOS/Pods-rn_oreo-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		B0D1E4C436377CA807A21719 /* Pods-rn.oreo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn.oreo.release.xcconfig"; path = "Target Support Files/Pods-rn.oreo/Pods-rn.oreo.release.xcconfig"; sourceTree = "<group>"; };
 		B1868E54246914CF006415E6 /* Property List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Property List.plist"; sourceTree = "<group>"; };
+		BB13BAFFA786488DA3F919C3 /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
+		BB31F4D191724847A8D65B9A /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
 		C2AAD548E4FB84AD284EB87D /* Pods-rn_oreo-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn_oreo-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-rn_oreo-tvOSTests/Pods-rn_oreo-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		CBEA9618926E69B1C982FB69 /* Pods-OneSignalNotificationServiceExtension.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OneSignalNotificationServiceExtension.debug.xcconfig"; path = "Target Support Files/Pods-OneSignalNotificationServiceExtension/Pods-OneSignalNotificationServiceExtension.debug.xcconfig"; sourceTree = "<group>"; };
-		D73AE94E08E491E603D24132 /* Pods-rn.oreo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn.oreo.debug.xcconfig"; path = "Target Support Files/Pods-rn.oreo/Pods-rn.oreo.debug.xcconfig"; sourceTree = "<group>"; };
+		CC37174A488C6BE6504FB353 /* libPods-rn_oreo-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rn_oreo-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DFA99C26684540B3974F921E /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
+		E08A39909E384CB483152435 /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
 		E2B2538C23FA3A01009FA9EE /* splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = splash.png; sourceTree = "<group>"; };
-		E795CBB46B7B4BA3A835DF97 /* libPods-rn.oreo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rn.oreo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E7689B0F927A42CCAE668B58 /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		EE178823EB3C4AA9B1864993 /* Poppins-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Light.ttf"; path = "../assets/fonts/Poppins-Light.ttf"; sourceTree = "<group>"; };
+		F42695C5644F4175BDAC181E /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
 		FD9B75CA8E2F499389689EE3 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Regular.ttf"; path = "../assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -128,7 +151,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				70A3C561486A13A00742AE71 /* libPods-rn.oreoTests.a in Frameworks */,
+				9C1532084662F11250C22123 /* libPods-rn_oreoTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B1868E57246917BC006415E6 /* JavaScriptCore.framework in Frameworks */,
-				35E413B6985BC997E4259476 /* libPods-rn.oreo.a in Frameworks */,
+				FBF6D5844A81D87641E62FF3 /* libPods-rn_oreo.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -145,7 +168,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EEA165B7947930F6D1ECD6F0 /* libPods-rn.oreo-tvOS.a in Frameworks */,
+				6B4C2E05281FEE69BC51757F /* libPods-rn_oreo-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -153,7 +176,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CBB7CC7A4AABA25A99EC6503 /* libPods-rn.oreo-tvOSTests.a in Frameworks */,
+				02BA0C4271A8992F11C8C27A /* libPods-rn_oreo-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -188,7 +211,6 @@
 		13B07FAE1A68108700A75B9A /* rn_oreo */ = {
 			isa = PBXGroup;
 			children = (
-				77FED5FA2469D3EF007615B3 /* GoogleService-Info.plist */,
 				E2B2538C23FA3A01009FA9EE /* splash.png */,
 				8822438B238638DF00CFE8BB /* oreo fashion.entitlements */,
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -198,6 +220,7 @@
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
+				88C97A7F236A422200D339D1 /* GoogleService-Info.plist */,
 			);
 			name = rn_oreo;
 			sourceTree = "<group>";
@@ -207,11 +230,11 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
+				108A5ADFCD53C1E8A2129C5B /* libPods-rn_oreo.a */,
+				3041920998B9399033C6A89D /* libPods-rn_oreo-tvOS.a */,
+				CC37174A488C6BE6504FB353 /* libPods-rn_oreo-tvOSTests.a */,
+				9A207025C5F0061F6CA6E8B9 /* libPods-rn_oreoTests.a */,
 				6EAB1169DDD649B88CD9D8FD /* libPods-OneSignalNotificationServiceExtension.a */,
-				E795CBB46B7B4BA3A835DF97 /* libPods-rn.oreo.a */,
-				0D276C9EB7930737A794DE7B /* libPods-rn.oreo-tvOS.a */,
-				30A77E9BED283AD1A2489174 /* libPods-rn.oreo-tvOSTests.a */,
-				A1C5C73797D7F88B11CA064D /* libPods-rn.oreoTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -229,14 +252,6 @@
 				5305D773EFC8BB966D0FEACD /* Pods-rn_oreoTests.release.xcconfig */,
 				CBEA9618926E69B1C982FB69 /* Pods-OneSignalNotificationServiceExtension.debug.xcconfig */,
 				4246D3C8E18E82F0E8070DD4 /* Pods-OneSignalNotificationServiceExtension.release.xcconfig */,
-				D73AE94E08E491E603D24132 /* Pods-rn.oreo.debug.xcconfig */,
-				B0D1E4C436377CA807A21719 /* Pods-rn.oreo.release.xcconfig */,
-				913642D136A44010D7318F64 /* Pods-rn.oreo-tvOS.debug.xcconfig */,
-				9F26E6B72E0F67E1C9D361A8 /* Pods-rn.oreo-tvOS.release.xcconfig */,
-				83AC33648B657ADDCDF46170 /* Pods-rn.oreo-tvOSTests.debug.xcconfig */,
-				385EC73F2F687582B2E093FE /* Pods-rn.oreo-tvOSTests.release.xcconfig */,
-				72BC71B97452C4F295B9F3DA /* Pods-rn.oreoTests.debug.xcconfig */,
-				7F1020DCB41575095AFEE2FF /* Pods-rn.oreoTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -248,6 +263,22 @@
 				1FB38C6E99E643D788A715D8 /* Poppins-Medium.ttf */,
 				FD9B75CA8E2F499389689EE3 /* Poppins-Regular.ttf */,
 				366F038D2437494FA99AC27B /* Poppins-SemiBold.ttf */,
+				765DEA62462449D8ADC4B6A4 /* AntDesign.ttf */,
+				716B1E682D6844169C796D89 /* Entypo.ttf */,
+				F42695C5644F4175BDAC181E /* EvilIcons.ttf */,
+				1221C78AD888485B83C19A72 /* Feather.ttf */,
+				61783F85EB1E416D8286B893 /* FontAwesome.ttf */,
+				4D22A6A8AF36442FBBC71048 /* FontAwesome5_Brands.ttf */,
+				12C44B73B82745BEB7B9E6E3 /* FontAwesome5_Regular.ttf */,
+				39520C08D4554D71A9BC8D53 /* FontAwesome5_Solid.ttf */,
+				DFA99C26684540B3974F921E /* Fontisto.ttf */,
+				E08A39909E384CB483152435 /* Foundation.ttf */,
+				01315FE4DFD446AAB95EC4B7 /* Ionicons.ttf */,
+				7952D24E94254B94A10DCA10 /* MaterialCommunityIcons.ttf */,
+				E7689B0F927A42CCAE668B58 /* MaterialIcons.ttf */,
+				1FCCECA017EE48D39AE053EA /* Octicons.ttf */,
+				BB31F4D191724847A8D65B9A /* SimpleLineIcons.ttf */,
+				BB13BAFFA786488DA3F919C3 /* Zocial.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -280,7 +311,7 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* Computech.app */,
+				13B07F961A680F5B00A75B9A /* Computech Media.app */,
 				00E356EE1AD99517003FC87E /* rn.oreoTests.xctest */,
 				2D02E47B1E0B4A5D006451C7 /* rn.oreo-tvOS.app */,
 				2D02E4901E0B4A5D006451C7 /* rn.oreo-tvOSTests.xctest */,
@@ -342,7 +373,7 @@
 			);
 			name = rn.oreo;
 			productName = rn_oreo;
-			productReference = 13B07F961A680F5B00A75B9A /* Computech.app */;
+			productReference = 13B07F961A680F5B00A75B9A /* Computech Media.app */;
 			productType = "com.apple.product-type.application";
 		};
 		2D02E47A1E0B4A5D006451C7 /* rn.oreo-tvOS */ = {
@@ -433,7 +464,7 @@
 					};
 					8822439F238689C100CFE8BB = {
 						CreatedOnToolsVersion = 11.2.1;
-						DevelopmentTeam = 892E645PUM;
+						DevelopmentTeam = F3PBLAQ75H;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -474,13 +505,28 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
-				77FED5FB2469D3EF007615B3 /* GoogleService-Info.plist in Resources */,
 				B1868E55246914CF006415E6 /* Property List.plist in Resources */,
 				E2B2538D23FA3A01009FA9EE /* splash.png in Resources */,
 				02D83825F2D94B05AF750096 /* Poppins-Light.ttf in Resources */,
 				FB5F838CB6F64DF1BD59103C /* Poppins-Medium.ttf in Resources */,
 				52AAF018445D4363A88FBA81 /* Poppins-Regular.ttf in Resources */,
 				2CE49BF177524A9296830AFD /* Poppins-SemiBold.ttf in Resources */,
+				E9539EA487C045CA94407667 /* AntDesign.ttf in Resources */,
+				D49FB677ACA74F65B961DB86 /* Entypo.ttf in Resources */,
+				084F5F546F214A78ABB701EC /* EvilIcons.ttf in Resources */,
+				D5814F52EBAD47F6B4E583A8 /* Feather.ttf in Resources */,
+				3538E11F4B7E4B729CFD85DF /* FontAwesome.ttf in Resources */,
+				6F8F7356107F4F5DADFE8F2A /* FontAwesome5_Brands.ttf in Resources */,
+				9019D946CEDC4A86B83111B4 /* FontAwesome5_Regular.ttf in Resources */,
+				CA54BD2B9AEF4E52A576F9C2 /* FontAwesome5_Solid.ttf in Resources */,
+				0DBF0C5B5C4A47A3A1C1203F /* Fontisto.ttf in Resources */,
+				3E5096B9AE524C20B1013917 /* Foundation.ttf in Resources */,
+				CBFCAD806B1E4692B974275F /* Ionicons.ttf in Resources */,
+				62ACAA24FCDC4BA2BBA6C895 /* MaterialCommunityIcons.ttf in Resources */,
+				C6E1AD6B1A2A445295446215 /* MaterialIcons.ttf in Resources */,
+				846DB60DCECC433E876C1EEB /* Octicons.ttf in Resources */,
+				82056BD1CA8A45309B567DEF /* SimpleLineIcons.ttf in Resources */,
+				59C1CF2D3BE04B758AD4CCC8 /* Zocial.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -537,7 +583,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-rn.oreoTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-rn_oreoTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -559,7 +605,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-rn.oreo-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-rn_oreo-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -581,7 +627,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-rn.oreo-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-rn_oreo-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -649,7 +695,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-rn.oreo-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-rn_oreo-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -662,7 +708,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-rn.oreo/Pods-rn.oreo-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-rn_oreo/Pods-rn_oreo-resources.sh",
 				"${PODS_ROOT}/FBSDKCoreKit/FacebookSDKStrings.bundle",
 				"${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
@@ -705,7 +751,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-rn.oreo/Pods-rn.oreo-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-rn_oreo/Pods-rn_oreo-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -826,7 +872,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 72BC71B97452C4F295B9F3DA /* Pods-rn.oreoTests.debug.xcconfig */;
+			baseConfigurationReference = 05AA5CA661DF48CF53F10A69 /* Pods-rn_oreoTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				DEVELOPMENT_TEAM = F3PBLAQ75H;
@@ -850,7 +896,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7F1020DCB41575095AFEE2FF /* Pods-rn.oreoTests.release.xcconfig */;
+			baseConfigurationReference = 5305D773EFC8BB966D0FEACD /* Pods-rn_oreoTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -871,26 +917,26 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D73AE94E08E491E603D24132 /* Pods-rn.oreo.debug.xcconfig */;
+			baseConfigurationReference = 41786B42438D41D6F70E4725 /* Pods-rn_oreo.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "rn_oreo/Oreo Fashion.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 80;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = 892E645PUM;
 				INFOPLIST_FILE = rn_oreo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				MARKETING_VERSION = 0.3;
+				MARKETING_VERSION = 1.4.3;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Computech.media.io;
-				PRODUCT_NAME = Computech;
+				PRODUCT_NAME = "Computech Media";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
@@ -899,25 +945,25 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B0D1E4C436377CA807A21719 /* Pods-rn.oreo.release.xcconfig */;
+			baseConfigurationReference = 4EE218462045FABC937E4D86 /* Pods-rn_oreo.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "rn_oreo/Oreo Fashion.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 80;
 				DEVELOPMENT_TEAM = 892E645PUM;
 				INFOPLIST_FILE = rn_oreo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				MARKETING_VERSION = 0.3;
+				MARKETING_VERSION = 1.4.3;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Computech.media.io;
-				PRODUCT_NAME = Computech;
+				PRODUCT_NAME = "Computech Media";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
@@ -926,7 +972,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 913642D136A44010D7318F64 /* Pods-rn.oreo-tvOS.debug.xcconfig */;
+			baseConfigurationReference = ABAE0FC2A2ED0040FED11027 /* Pods-rn_oreo-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -954,7 +1000,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9F26E6B72E0F67E1C9D361A8 /* Pods-rn.oreo-tvOS.release.xcconfig */;
+			baseConfigurationReference = 9CAFE9D11A3A31B56D43FF77 /* Pods-rn_oreo-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -982,7 +1028,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 83AC33648B657ADDCDF46170 /* Pods-rn.oreo-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = C2AAD548E4FB84AD284EB87D /* Pods-rn_oreo-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -1009,7 +1055,7 @@
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 385EC73F2F687582B2E093FE /* Pods-rn.oreo-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 4D4CA8A7013FFE0C8FA0D0BB /* Pods-rn_oreo-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -1146,17 +1192,17 @@
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 80;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = 892E645PUM;
+				DEVELOPMENT_TEAM = F3PBLAQ75H;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = OneSignalNotificationServiceExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				MARKETING_VERSION = 0.3;
+				MARKETING_VERSION = 1.4.3;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = Computech.media.io.OneSignalNotificationServiceExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = oreo.rnlab.io.OneSignalNotificationServiceExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1175,16 +1221,16 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 80;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = 892E645PUM;
+				DEVELOPMENT_TEAM = F3PBLAQ75H;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = OneSignalNotificationServiceExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				MARKETING_VERSION = 0.3;
+				MARKETING_VERSION = 1.4.3;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = Computech.media.io.OneSignalNotificationServiceExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = oreo.rnlab.io.OneSignalNotificationServiceExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";

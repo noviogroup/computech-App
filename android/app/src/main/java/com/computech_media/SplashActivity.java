@@ -1,4 +1,4 @@
-package com.rn_oreo;
+package com.computech_media;
 
 import android.content.Intent;
 import android.os.Bundle;

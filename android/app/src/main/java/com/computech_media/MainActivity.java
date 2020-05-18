@@ -1,4 +1,4 @@
-package com.rn_oreo;
+package com.computech_media;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

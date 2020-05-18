@@ -8,6 +8,42 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:277169540318:android:9cf3a464d18393b4cc064f",
+        "android_client_info": {
+          "package_name": "com.computech_media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277169540318-665qfgdtum6aqcb4up036rs479j3r9jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBESgdeCM4m3vBdQqhx8FMAXLOFGaX-IY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277169540318-665qfgdtum6aqcb4up036rs479j3r9jc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "277169540318-0gstjmjshndlmivh38m3h84g0783gskf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "computech.media"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:277169540318:android:1abe2647e6ebb838cc064f",
         "android_client_info": {
           "package_name": "com.rn_oreo"
@@ -30,6 +66,13 @@
             {
               "client_id": "277169540318-665qfgdtum6aqcb4up036rs479j3r9jc.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "277169540318-0gstjmjshndlmivh38m3h84g0783gskf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "computech.media"
+              }
             }
           ]
         }
