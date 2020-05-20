@@ -126,15 +126,7 @@ class SocialMethods extends React.Component {
           />
         ) : null}
         {Platform.OS === 'ios' ? (
-          <SocialIcon
-            type="apple"
-            iconSize={16}
-            button
-            raised={false}
-            style={styles.socialIconStyle}
-            onPress={this.onAppleButtonPress}
-            fontStyle={styles.textButtonSocial}
-          />
+          null
         ) : null}
       </View>
     );
